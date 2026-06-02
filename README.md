@@ -101,6 +101,4 @@ Place model artifacts inside `model/` (or point env paths accordingly):
 Large/generated files are excluded via `.gitignore` (for example `model/` and dataset files).  
 Commit only source code and configuration templates such as `.env.example`.
 
-## License
 
-Add your preferred license here (MIT, Apache-2.0, etc.).
