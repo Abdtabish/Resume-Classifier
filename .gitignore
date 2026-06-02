@@ -1,0 +1,28 @@
+
+# Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files (ignore secrets)
+.env
+.env.local
+.env.*
+
+# Allow example env files
+!.env.example
+
+# Node.js
+frontend/node_modules/
+
+# Next.js
+frontend/.next/
+
+# Project-specific
+model/
+data/Resume.csv
+
+# OS files
+.DS_Store
+Thumbs.db
